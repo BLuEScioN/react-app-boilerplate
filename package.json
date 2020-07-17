@@ -39,7 +39,7 @@
     "file-loader": "3.0.1",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mini-css-extract-plugin": "^0.8.0",
     "mocha": "^6.2.0",
     "moment": "^2.24.0",
